@@ -1,0 +1,1 @@
+redis-server --port 9999 --replicaof 127.0.0.1 6379
